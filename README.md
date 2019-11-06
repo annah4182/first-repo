@@ -1,1 +1,1 @@
-This is my first repo
+This is my first repo. I learned how to use git push. 
